@@ -1,0 +1,7 @@
+Version explained:
+ major : codebase
+ minor : increase on new features
+ bug   : increase on bug fixes
+
+Version 0.0.1 - 9th of November 2014
+ * Initial export to GitHub.
